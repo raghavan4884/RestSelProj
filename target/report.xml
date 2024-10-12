@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.27" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Search Functionality" name="Search Value - Example #1.1" time="11.091">
+<system-out><![CDATA[
+Given that the user enters the url and searchString and verify the title from "search" in "1".passed
+Then I close the browser....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Search Functionality" name="Search Value - Example #1.2" time="6.667">
+<system-out><![CDATA[
+Given that the user enters the url and searchString and verify the title from "search" in "2".passed
+Then I close the browser....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
